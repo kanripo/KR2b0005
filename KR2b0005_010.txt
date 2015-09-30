@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 元經
-#+DATE: 2015-09-23 09:42:44
-#+PROPERTY: JUAN 10
+#+DATE: 2015-08-24 22:23:14.250177
+#+PROPERTY: ID KR2b0005
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷十
 <pb:KR2b0005_WYG_010-1a>¶
 欽定四庫全書¶
 　元經卷十¶
@@ -56,4 +58,3 @@
 　¶
 　¶
 　元經卷十¶
-
